@@ -3,5 +3,6 @@ public class GUI {
     {
         System.out.println("HELLO FAG");
         System.out.println("WTF");
+        System.out.println("Cake Is Power");
     }
 }
