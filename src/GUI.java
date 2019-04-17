@@ -19,7 +19,7 @@ import javax.swing.event.ListSelectionListener;
 
 public class GUI extends JFrame implements ActionListener
 {
-
+ int a =2;
     private static GUI window;
     public JTextArea textLogin, textProject;
     public JButton ButtonLogin, ButtonProject, button1, button2, button3, button4;
